@@ -1,0 +1,19 @@
+.error {
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+
+.link {
+    padding-left: 20px;
+}
+
+.infoContainer {
+    padding-left: 20px;
+}
+
+.listLink {
+    display: flex;
+    gap: 10px;
+    margin: 5px 0px;
+}

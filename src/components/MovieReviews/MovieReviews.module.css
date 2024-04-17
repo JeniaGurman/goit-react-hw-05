@@ -1,0 +1,18 @@
+.error {
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+
+.list {
+    padding: 0px 20px;
+    margin-bottom: 10px;
+}
+
+.author {
+    margin-bottom: 15px;
+}
+
+.content {
+    margin-bottom: 25px;
+}
